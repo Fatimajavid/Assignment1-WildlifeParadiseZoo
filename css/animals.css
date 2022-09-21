@@ -14,7 +14,6 @@
 }
 
 #pbimg{
-  float: left;
   border: 6px solid rgb(158, 225, 230);
   height:280px;    
 }
@@ -47,7 +46,7 @@ h4{
   font-size: 20px;
   font-family: 'Rajdhani', sans-serif;
   border: 3px solid #27b6d3;  
-  margin: 3px 0px 0px 0px;
+  margin: 3px 26px 0px 0px;
   padding:10px;
 }
 
