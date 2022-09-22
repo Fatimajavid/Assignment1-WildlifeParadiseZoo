@@ -6,4 +6,4 @@ Group member:
 
 Fatima Javid - fatimajavid
 
-[Link to website](https://https://github.com/Fatimajavid/Assignment1-Zoo)
+[Link to website](https://https://github.com/Fatimajavid/Assignment1-WildlifeParadiseZoo)
